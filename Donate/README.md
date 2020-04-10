@@ -5,10 +5,10 @@
 ``` php
     <?php Typecho_Plugin::factory('rootvip.cn.Donate')->Donate(); ?>
 ```
-![请输入图片描述](https://sddman.oss-cn-shenzhen.aliyuncs.com/typecho/TIM%E6%88%AA%E5%9B%BE20200403181241.jpg)
+![](https://sddman.oss-cn-shenzhen.aliyuncs.com/typecho/TIM%E6%88%AA%E5%9B%BE20200403181241.jpg)
 
 插件配置如下：
-![请输入图片描述](https://sddman.oss-cn-shenzhen.aliyuncs.com/typecho/TIM%E6%88%AA%E5%9B%BE20200403181339.jpg)
+![](https://sddman.oss-cn-shenzhen.aliyuncs.com/typecho/TIM%E6%88%AA%E5%9B%BE20200403181339.jpg)
 
 效果：
-![请输入图片描述](https://sddman.oss-cn-shenzhen.aliyuncs.com/typecho/TIM%E6%88%AA%E5%9B%BE20200403181216.jpg)
+![](https://sddman.oss-cn-shenzhen.aliyuncs.com/typecho/TIM%E6%88%AA%E5%9B%BE20200403181216.jpg)
